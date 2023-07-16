@@ -20,4 +20,4 @@ for pkg in pkgs.split(" "):
 
 print("\nIf you don't need Automated internet conntection (via wpa_supplicant) or NBFC (Notebook Fan Control) you can remove it from i3 config.\nThey are at the end of the config.")
 
-print(" * Also gruvbox folder doesn't actually have gruvbox. i am too lazy to change its name.")
+print(" * Also gruvbox directory doesn't actually have gruvbox. i am too lazy to change its name.")
